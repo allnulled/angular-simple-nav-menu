@@ -1,0 +1,23 @@
+{
+  "name": "angular-simple-nav-menu",
+  "version": "1.0.0",
+  "description":
+    "Directives for AngularJS (version 1.x) to ease the creation of the typical navigation menu.",
+  "main": "src/module.simple-nav-menu.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "sensible-browser test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/angular-simple-nav-menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allnulled/angular-simple-nav-menu/issues"
+  },
+  "homepage": "https://github.com/allnulled/angular-simple-nav-menu#readme"
+}
