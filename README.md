@@ -64,4 +64,4 @@ It is important that your browser lets you load files from external CDN and from
 
 ## 4. Conclusion
 
-Use this library as you like, this is a very simple module that can ease a bit the typical navigation menu for an AngularJS application.ication.
+Use this library as you like, this is a very simple module that can ease a bit the typical navigation menu for an AngularJS application.
