@@ -28,7 +28,7 @@ It is composed by 3 directives:
 ##### 2.2. In your JavaScript, when you initialize the application:
 
 ```js
-angular.module("MyApp", ["SimpleNavModule"]);
+angular.module("MyApp", ["SimpleNavMenu"]);
 ```
 
 ## 2. Usage
